@@ -1,0 +1,19 @@
+{
+    "name": "bzk",
+    "version": "1.0.0",
+    "description": "blog",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon ./index.js"
+    },
+    "author": "dido - dieudonnemiyalu6@gmail.com",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    },
+    "dependencies": {
+        "ejs": "^3.0.1",
+        "express": "^4.17.1"
+    }
+}
